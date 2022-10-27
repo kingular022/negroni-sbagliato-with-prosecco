@@ -1,4 +1,4 @@
-﻿namespace _20._10.Controllers.Serwisy
+﻿namespace _20._10.Serwisy.lab2
 {
     public class Calculate
     {
@@ -11,12 +11,12 @@
 
         public void Increase(int value)
         {
-            this.Value += value;
+            Value += value;
         }
 
         public void Decrease(int value)
         {
-            this.Value -= value;
+            Value -= value;
         }
 
         public int GetValue()

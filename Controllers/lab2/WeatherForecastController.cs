@@ -1,7 +1,7 @@
-using _20._10.Controllers.Serwisy;
+using _20._10.Serwisy.lab2;
 using Microsoft.AspNetCore.Mvc;
 
-namespace _20._10.Controllers
+namespace _20._10.Controllers.lab2
 {
     [ApiController]
     [Route("[controller]/[action]")]
@@ -36,7 +36,7 @@ namespace _20._10.Controllers
         {
             var calculateInstance = new Calculate(23);
             var calculateInstance2 = new Calculate(45);
-            
+
             return new List<int>() { calculateInstance2.GetValue(), calculateInstance.GetValue() };
         }
     }
