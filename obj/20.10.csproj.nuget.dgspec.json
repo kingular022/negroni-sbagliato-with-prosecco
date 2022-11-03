@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\zal\\20.10\\20.10\\20.10.csproj": {}
+    "C:\\Users\\w65537\\source\\repos\\negroni-sbagliato-with-prosecco\\20.10.csproj": {}
   },
   "projects": {
-    "F:\\zal\\20.10\\20.10\\20.10.csproj": {
+    "C:\\Users\\w65537\\source\\repos\\negroni-sbagliato-with-prosecco\\20.10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\zal\\20.10\\20.10\\20.10.csproj",
+        "projectUniqueName": "C:\\Users\\w65537\\source\\repos\\negroni-sbagliato-with-prosecco\\20.10.csproj",
         "projectName": "20.10",
-        "projectPath": "F:\\zal\\20.10\\20.10\\20.10.csproj",
+        "projectPath": "C:\\Users\\w65537\\source\\repos\\negroni-sbagliato-with-prosecco\\20.10.csproj",
         "packagesPath": "C:\\Users\\w65537\\.nuget\\packages\\",
-        "outputPath": "F:\\zal\\20.10\\20.10\\obj\\",
+        "outputPath": "C:\\Users\\w65537\\source\\repos\\negroni-sbagliato-with-prosecco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\w65537\\AppData\\Roaming\\NuGet\\NuGet.Config",

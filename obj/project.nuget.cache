@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xp8N5rprGBW1NNHdg7E5ntCAr7BUEsLnLUN2lYOA8oLFIQXRuR0SMXuRUk36uq/ezUVBvfv6zKGLXDf44YShsw==",
+  "dgSpecHash": "7r1+WqMLvRSU6x6qTk0bSLKLxFoL1pMXRre4LS2ID/64g3B1PTQUNiaSjVZ/BQr0x7HBkeE3XXSeWd0IF6CGDA==",
   "success": true,
-  "projectFilePath": "F:\\zal\\20.10\\20.10\\20.10.csproj",
+  "projectFilePath": "C:\\Users\\w65537\\source\\repos\\negroni-sbagliato-with-prosecco\\20.10.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w65537\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\w65537\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
